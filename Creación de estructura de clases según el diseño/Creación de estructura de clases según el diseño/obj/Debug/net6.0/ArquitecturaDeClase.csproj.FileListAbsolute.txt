@@ -1,0 +1,14 @@
+C:\Users\kelvi\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net6.0\ArquitecturaDeClase.exe
+C:\Users\kelvi\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net6.0\ArquitecturaDeClase.deps.json
+C:\Users\kelvi\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net6.0\ArquitecturaDeClase.runtimeconfig.json
+C:\Users\kelvi\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net6.0\ArquitecturaDeClase.dll
+C:\Users\kelvi\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net6.0\ArquitecturaDeClase.pdb
+C:\Users\kelvi\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\ArquitecturaDeClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelvi\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\ArquitecturaDeClase.AssemblyInfoInputs.cache
+C:\Users\kelvi\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\ArquitecturaDeClase.AssemblyInfo.cs
+C:\Users\kelvi\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\ArquitecturaDeClase.csproj.CoreCompileInputs.cache
+C:\Users\kelvi\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\ArquitecturaDeClase.dll
+C:\Users\kelvi\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\refint\ArquitecturaDeClase.dll
+C:\Users\kelvi\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\ArquitecturaDeClase.pdb
+C:\Users\kelvi\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\ArquitecturaDeClase.genruntimeconfig.cache
+C:\Users\kelvi\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\ref\ArquitecturaDeClase.dll
